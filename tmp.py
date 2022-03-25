@@ -6,4 +6,5 @@ def func(a):
 a = 1
 c = 10
 b = func(a)
+
 print(a)
